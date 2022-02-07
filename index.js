@@ -1,14 +1,10 @@
 // document.getElementById("count-el").innerText = 5
 
-// let firstBatch = 5
-// let secondBatch = 7
+let bonusPoints = 50
 
-// let count = firstBatch + secondBatch
-
-// console.log(count)
-
-let myAge = 35
-let humanDogRatio = 7
-
-let dogAge = myAge * humanDogRatio
- console.log (dogAge)
+bonusPoints = bonusPoints + 50
+console.log(bonusPoints)
+bonusPoints = bonusPoints - 75
+console.log(bonusPoints)
+bonusPoints = bonusPoints + 45
+console.log(bonusPoints)
