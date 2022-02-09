@@ -1,7 +1,9 @@
 body{
-    background-image: url(/imagenes/trainstation.jfif);
-    background-size: cover;
-    color: rgb(44, 53, 173);
+    padding: 200px;
+    background-image: url(/imagenes/railwaystations-metros-porto-portugal-schreder-dexo-dexo-neos-porto-sao-bento-gare-img_0942.jpg);
+    background-size: cover; 
+    resize: none;
+    color: rgb(0, 0, 0);
     font-weight: bold;
     text-align: center;
 }
